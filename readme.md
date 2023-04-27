@@ -9,7 +9,7 @@
 
 ## CURRENTLY STATE OF PROJECT:
 ```
-STAGING
+Staging | Modifying Content
 ```
 
 ## Screenshootes
