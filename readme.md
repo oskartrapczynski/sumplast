@@ -13,7 +13,7 @@ Staging | Modifying Content
 ```
 ## TODO:
 ```
-Imporve menu for mobile (hamburger)
+Improve menu for mobile (hamburger)
 ```
 
 ## Screenshootes
